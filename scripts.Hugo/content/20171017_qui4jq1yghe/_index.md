@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171017_qui4jq1yghe.mp4" >}}
 
-     https://www.youtube.com/watch?v=qUi4jQ1YghE 
-     中国民主革命大会：墨镜哥许四多发言 
      
+     中国民主革命大会：墨镜哥许四多发言 
+     https://www.youtube.com/watch?v=qUi4jQ1YghE 

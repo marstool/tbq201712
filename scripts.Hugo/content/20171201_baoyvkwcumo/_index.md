@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171201_baoyvkwcumo.mp4" >}}
 
-     
      回应赖律师 澄清一系列对民主革命大会的污蔑 
+     
      https://www.youtube.com/watch?v=BaOYVKWcUMo 

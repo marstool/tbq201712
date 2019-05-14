@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171015_1i0rnj6nuwm.mp4" >}}
 
+     https://www.youtube.com/watch?v=1I0RnJ6NUWM 
      
      中国民主革命大会：西藏学生领袖代表讲话 
-     https://www.youtube.com/watch?v=1I0RnJ6NUWM 

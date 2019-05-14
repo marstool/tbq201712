@@ -9,5 +9,5 @@ weight = 20
 {{< mymp4 mp4="20171008_l06op9h_0lo.mp4" >}}
 
      
-     https://www.youtube.com/watch?v=l06OP9h_0lo 
      中国民主革命大会（开幕词） 
+     https://www.youtube.com/watch?v=l06OP9h_0lo 

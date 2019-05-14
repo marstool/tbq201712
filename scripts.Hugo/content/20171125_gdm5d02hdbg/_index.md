@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171125_gdm5d02hdbg.mp4" >}}
 
-     https://www.youtube.com/watch?v=GdM5D02hdbg 
-     中共驅趕「低端人口」 陳勝吳廣會出現嗎？ 
      
+     中共驅趕「低端人口」 陳勝吳廣會出現嗎？ 
+     https://www.youtube.com/watch?v=GdM5D02hdbg 

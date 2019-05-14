@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171221_nzlubfzukfc.mp4" >}}
 
-     谈川普总统今日签署的人权法案 
-     https://www.youtube.com/watch?v=NZLUbFZUKfc 
      
+     https://www.youtube.com/watch?v=NZLUbFZUKfc 
+     谈川普总统今日签署的人权法案 

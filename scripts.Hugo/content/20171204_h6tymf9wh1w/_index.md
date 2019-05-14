@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171204_h6tymf9wh1w.mp4" >}}
 
-     https://www.youtube.com/watch?v=h6tYmf9wH1w 
-     《28年来我做了什么》之一：失败之歌 湖南六四后的镇压 
      
+     《28年来我做了什么》之一：失败之歌 湖南六四后的镇压 
+     https://www.youtube.com/watch?v=h6tYmf9wH1w 
