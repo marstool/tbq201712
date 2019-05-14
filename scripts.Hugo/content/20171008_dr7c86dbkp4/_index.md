@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171008_dr7c86dbkp4.mp4" >}}
 
-     中国民主革命大会：张健先生发言 
      
+     中国民主革命大会：张健先生发言 
      https://www.youtube.com/watch?v=DR7C86dbkP4 

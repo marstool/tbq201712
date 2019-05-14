@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171016_eqot6hx5sjw.mp4" >}}
 
-     https://www.youtube.com/watch?v=EqoT6Hx5Sjw 
      
      中国民主革命大会：李焕君女士发言 
+     https://www.youtube.com/watch?v=EqoT6Hx5Sjw 

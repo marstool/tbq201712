@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171017_eq_nwcxixsa.mp4" >}}
 
-     https://www.youtube.com/watch?v=eq nWcxIxsA 
      
+     https://www.youtube.com/watch?v=eq nWcxIxsA 
      中国民主革命大会：罗宇先生讲话 

@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171018_80vbknmoyei.mp4" >}}
 
-     中国民主革命大会：民阵主席秦晋先生讲话 
      https://www.youtube.com/watch?v=80vBKNmOYEI 
      
+     中国民主革命大会：民阵主席秦晋先生讲话 

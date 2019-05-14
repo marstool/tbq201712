@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20171008_3kajsq5o7gg.mp4" >}}
 
-     
      中国民主革命大会：黄兴后人齐彧先生讲话 
+     
      https://www.youtube.com/watch?v=3KAjSq5O7gg 
